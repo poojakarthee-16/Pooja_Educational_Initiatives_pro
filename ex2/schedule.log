@@ -1,0 +1,8 @@
+Sept 27, 2025 9:59:44 PM ex2_astronaut.ScheduleManager addTask
+INFO: Task added: morning exercise
+Sept 27, 2025 10:00:32 PM ex2_astronaut.ScheduleManager addTask
+INFO: Task added: evening cofee
+Sept 27, 2025 10:00:58 PM ex2_astronaut.ScheduleManager markTaskCompleted
+INFO: Task marked completed: morning exercise
+Sept 27, 2025 10:01:26 PM ex2_astronaut.ScheduleManager removeTask
+INFO: Task removed: evening cofee
